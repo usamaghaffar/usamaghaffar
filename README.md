@@ -139,13 +139,20 @@ As a Full Stack Developer with more than 7 years of experience in web developmen
 
 ---
 
+<h3 align="left">📊 GitHub Stats:</h3>
 
-### 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=usamaghaffar&theme=codeSTACKr&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=usamaghaffar&theme=codeSTACKr&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=usamaghaffar&theme=codeSTACKr&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<table border="1">
+  <tr>
+    <td>
+      <img src="https://nirzak-streak-stats.vercel.app/?user=usamaghaffar&theme=codeSTACKr&hide_border=false" alt="GitHub Streak" />
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=usamaghaffar&theme=codeSTACKr&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" />
+    </td>
+  </tr>
+</table>
 
----
+
 
 ### 📌 Key Achievements
 
