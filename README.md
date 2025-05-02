@@ -3,7 +3,7 @@
 </div>
 
 <h1 align="center">Hey there 👋, I'm Usama</h1>
-<h3 align="center">Senior Full Stack Developer | Clean Architecture Advocate | 7+ Years of Experience</h3>
+<h3 align="center">Senior Full Stack Developer | PHP | Laravel | 7+ Years of Experience</h3>
 
 ---
 
