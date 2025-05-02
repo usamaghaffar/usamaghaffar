@@ -27,32 +27,118 @@ As a Full Stack Developer with more than 7 years of experience in web developmen
 
 ---
 
-### 💻 Tech Stack
+<h3 align="left">Tech Stack:</h3>
 
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+<table>
+  <tr>
+    <td align="center" width="96">
+      <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="30" height="30"/>
+      </a>
+      <br>JavaScript
+    </td>
+    <td align="center" width="96">
+      <a href="https://www.php.net/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="30" height="30"/>
+      </a>
+      <br>PHP
+    </td>
+    <td align="center" width="96">
+      <a href="https://laravel.com/" target="_blank" rel="noreferrer">
+        <img src="https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white"/>
+      </a>
+      <br>Laravel
+    </td>
+    <td align="center" width="96">
+      <a href="https://laravel-livewire.com/" target="_blank" rel="noreferrer">
+        <img src="https://cdn.worldvectorlogo.com/logos/livewire-1.svg" alt="Livewire" width="30" height="30"/>
+      </a>
+      <br>Livewire
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="96">
+      <a href="https://vuejs.org/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="Vue.js" width="30" height="30"/>
+      </a>
+      <br>Vue.js
+    </td>
+    <td align="center" width="96">
+      <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="30" height="30"/>
+      </a>
+      <br>React
+    </td>
+    <td align="center" width="96">
+      <a href="https://nuxt.com/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nuxtjs/nuxtjs-original.svg" alt="Nuxt.js" width="30" height="30"/>
+      </a>
+      <br>Nuxt.js
+    </td>
+    <td align="center" width="96">
+      <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
+        <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="TailwindCSS" width="30" height="30"/>
+      </a>
+      <br>TailwindCSS
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="96">
+      <a href="https://vitejs.dev/" target="_blank" rel="noreferrer">
+        <img src="https://vitejs.dev/logo.svg" alt="Vite" width="30" height="30"/>
+      </a>
+      <br>Vite
+    </td>
+    <td align="center" width="96">
+      <a href="https://vuetifyjs.com/" target="_blank" rel="noreferrer">
+        <img src="https://cdn.vuetifyjs.com/images/logos/vuetify-logo-light.svg" alt="Vuetify" width="30" height="30"/>
+      </a>
+      <br>Vuetify
+    </td>
+    <td align="center" width="96">
+      <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="30" height="30"/>
+      </a>
+      <br>MySQL
+    </td>
+    <td align="center" width="96">
+      <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="30" height="30"/>
+      </a>
+      <br>PostgreSQL
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="96">
+      <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="30" height="30"/>
+      </a>
+      <br>MongoDB
+    </td>
+    <td align="center" width="96">
+      <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="30" height="30"/>
+      </a>
+      <br>AWS
+    </td>
+    <td align="center" width="96">
+      <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="30" height="30"/>
+      </a>
+      <br>Docker
+    </td>
+    <td align="center" width="96">
+      <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" alt="Figma" width="30" height="30"/>
+      </a>
+      <br>Figma
+    </td>
+  </tr>
+</table>
 
-![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
-![Livewire](https://img.shields.io/badge/livewire-%234e56a6.svg?style=for-the-badge&logo=livewire&logoColor=white)
-![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Nuxt JS](https://img.shields.io/badge/Nuxt-002E3B?style=for-the-badge&logo=nuxt.js&logoColor=#00DC82)
-
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
-![Vuetify](https://img.shields.io/badge/Vuetify-1867C0?style=for-the-badge&logo=vuetify&logoColor=AEDDFF)
-
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/postgresql-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white)
 
 ---
+
 
 ### 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=usamaghaffar&theme=codeSTACKr&hide_border=false&include_all_commits=false&count_private=false)<br/>
