@@ -178,7 +178,7 @@ As a Full Stack Developer with more than 7 years of experience in web developmen
 
 ---
 
-### 🚀 Discover Usama's Latest Projects
+### 🚀 Checkout my Latest Projects
 
 <table style="width:100%; border-collapse:collapse;">
   <tr>
