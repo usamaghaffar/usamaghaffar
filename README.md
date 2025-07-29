@@ -1,6 +1,7 @@
 <div align="center">
-  <img src="https://github.com/usamaghaffar/usamaghaffar/blob/main/banner.jpg" alt="Banner" width="100%" />
+  <img src="https://github.com/usamaghaffar/usamaghaffar/blob/main/image%20(28).png" alt="Banner" width="100%" />
 </div>
+
 
 <h1 align="center">Hey there 👋, I'm Usama</h1>
 <h3 align="center">Senior Full Stack Developer | PHP | Laravel | 7+ Years of Experience</h3>
